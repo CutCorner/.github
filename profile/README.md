@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="" alt="CutCorner-logo" width="400px">
+  <img src="https://github.com/CutCorner/.github/blob/main/assets/Logo-CutCorner.jpg?raw=true" alt="CutCorner-logo" width="400px">
 </p>
 
 
