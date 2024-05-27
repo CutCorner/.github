@@ -83,7 +83,7 @@ For now, the features we have in mind in the app we will be creating include:
   - [Xml Converter](https://inloop.github.io/svg2android/)
   - [Firebase](https://firebase.google.com/docs/build?hl=id)
   - [CameraX](https://developer.android.com/media/camera/camerax?hl=id)
-  - [Photo](https://developer.android.com/training/data-storage/shared/photopicker?hl=id)
+  - [Photo Picker](https://developer.android.com/training/data-storage/shared/photopicker?hl=id)
   - [TensorFlow Lite](https://www.tensorflow.org/lite/android?hl=id)
   - [Ucrop](https://github.com/Yalantis/uCrop)
   - [leku](https://github.com/AdevintaSpain/Leku)
