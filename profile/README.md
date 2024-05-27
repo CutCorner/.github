@@ -33,7 +33,9 @@ For now, the features we have in mind in the app we will be creating include:
 - Customised Pricing:
 <br /> Barbershops can set customised prices for their services, providing transparency and flexibility for customers.
 
-<br>
+These features are still in the works and may be reduced or increased at the end, depending on the needs and feedback from users and barbershop partners.
+
+<br> 
 
 # Team Details
 
