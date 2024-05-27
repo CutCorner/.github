@@ -93,11 +93,11 @@ These features are still in the works and may be reduced or increased at the end
 
 # Documentation
 ## Cloud Computing
-For our Cloud Computing documentation, [click here](https://github.com/CutCorner/Cloud-Computing#readme)
+For our Cloud Computing documentation, [click here](https://github.com/CutCorner/Cloud_Computing#readme)
 
 ## Machine Learning
-For our Machine Learning documentation, [click here](https://github.com/CutCorner/Machine-Learning#readme)
+For our Machine Learning documentation, [click here](https://github.com/CutCorner/Machine_Learning#readme)
 
 ## Mobile Development
-For our Mobile Development documentation, [click here](https://github.com/CutCorner/Mobile-Development#readme)
+For our Mobile Development documentation, [click here](https://github.com/CutCorner/Mobile_Development#readme)
 
