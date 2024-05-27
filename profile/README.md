@@ -77,7 +77,6 @@ These features are still in the works and may be reduced or increased at the end
   - [Data Store](https://developer.android.com/jetpack/androidx/releases/datastore?hl=id)
   - [CircleImageView](https://github.com/hdodenhof/CircleImageView)
   - [CoordinatorLayout](https://developer.android.com/jetpack/androidx/releases/coordinatorlayout?hl=id)
-  - [FlexBox](https://github.com/google/flexbox-layout)
   - [Fragment](https://developer.android.com/guide/fragments?hl=id)
   - [Figma](https://www.figma.com/)
   - [Android Arsenal](https://android-arsenal.com/)
